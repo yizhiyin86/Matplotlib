@@ -1,0 +1,5 @@
+1. Among all drugs tested Capomulin and Ramicane are the only two drugs that lead to reduction of tumor volume by the end of a 45 days trial. Another drug, Ceftamin significatly reduced the growth of tumor compared to the control (placebo treated) group (two-tailed t.test, p<0.05). 
+
+2. Mice treated by Capomulin and Ramicane have a significantly higher chance to survive than mice treated with placebo (Fishe's exact test, two-tailed, p<0.001).
+
+3.Compared to the placebo treated group, treatment of Capomulin, Ramicane, Stelasyn, Infubinol all lead to a significant reduction in the level of metastatic status in living mouse by the end of the trial (Mann-Whitney test, two-tailed, p<0.05) 
