@@ -144,8 +144,7 @@ plt.show()
 ```
 
 
-![png](Matplotlib/output/output_2_0.png)
-![alt text](https://raw.githubusercontent.com/yizhiyin86/projectname/branch/path/to/img.png)
+![alt text](https://raw.githubusercontent.com/yizhiyin86/Pymaceuticals/master/output/output_2_0.png)
 
 
 Plot survival rates of mice with different drug treatment overtime
