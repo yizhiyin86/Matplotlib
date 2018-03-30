@@ -1,11 +1,11 @@
 # Pymaceuticals
-Here I analyzed the effect of different drugs on cancer treatment by using hypothetical data based on a mouse model (from the raw_data folder). <br -/>
+Here I analyzed the effect of different drugs on cancer treatment by using hypothetical data based on a mouse model (from the raw_data folder). <br />
 I used PANDAS to analyze the tumor volume, the tumor stage, and the survival rates of mouse with each drug treatment. Data visualization was made via using Matplotlib. I performed various statistical tests including, t.test, Mann-Whitney U test, Fisher's Exact test to examine if the effect of each drug in tumor prevention is significant compared to the placebo treated group.  
 
-Based on the data, I made the following conclusions:<br -/>
+Based on the data, I made the following conclusions:<br />
 1.Among all drugs tested Capomulin and Ramicane are the only two drugs that lead to a reduction of tumor volume by the end of a 45 days trial. Another drug, Ceftamin significatly reduced the growth of tumor compared to the control (placebo treated) group (two-tailed t.test, p<0.05). 
 
-2.Mice treated by Capomulin and Ramicane have a significantly higher chance to survive than mice treated with placebo (Fishe's exact test, two-tailed, p<0.001).
+2.Mice treated by Capomulin and Ramicane have a significantly higher chance to survive than mice treated with placebo (Fishe's Exact test, two-tailed, p<0.001).
 
 3.Compared to the placebo treated group, treatment of Capomulin, Ramicane, Stelasyn, Infubinol all lead to a significant reduction in the level of metastatic status in living mouse by the end of the trial (Mann-Whitney test, two-tailed, p<0.05) 
 
