@@ -1,9 +1,9 @@
-Pymaceuticals
-Here I analyzed the effect of different drugs on cancer treatment by using hypothetical data on a mouse model.
-I used PANDAS to analyze the tumor volume, tumor stage, survival rate of mouse with each drug treatment. Data visualization was made by Matplotlib. I performed various statistical tests including, t.test, Mann-Whitney U test, Fisher's Exact test to examine if the effect of each drug in tumor prevention is significant compared to the placebo treated group.  
+#Pymaceuticals
+Here I analyzed the effect of different drugs on cancer treatment by using hypothetical data based on a mouse model (from the raw_data folder). <br -/>
+I used PANDAS to analyze the tumor volume, the tumor stage, and the survival rates of mouse with each drug treatment. Data visualization was made via using Matplotlib. I performed various statistical tests including, t.test, Mann-Whitney U test, Fisher's Exact test to examine if the effect of each drug in tumor prevention is significant compared to the placebo treated group.  
 
-Based on the data, I made the following conclusions:
-1.Among all drugs tested Capomulin and Ramicane are the only two drugs that lead to reduction of tumor volume by the end of a 45 days trial. Another drug, Ceftamin significatly reduced the growth of tumor compared to the control (placebo treated) group (two-tailed t.test, p<0.05). 
+Based on the data, I made the following conclusions:<br -/>
+1.Among all drugs tested Capomulin and Ramicane are the only two drugs that lead to a reduction of tumor volume by the end of a 45 days trial. Another drug, Ceftamin significatly reduced the growth of tumor compared to the control (placebo treated) group (two-tailed t.test, p<0.05). 
 
 2.Mice treated by Capomulin and Ramicane have a significantly higher chance to survive than mice treated with placebo (Fishe's exact test, two-tailed, p<0.001).
 
@@ -144,7 +144,8 @@ plt.show()
 ```
 
 
-![png](output_5_0.png)
+![png](Matplotlib/output/output_2_0.png)
+![alt text](https://raw.githubusercontent.com/yizhiyin86/projectname/branch/path/to/img.png)
 
 
 Plot survival rates of mice with different drug treatment overtime
