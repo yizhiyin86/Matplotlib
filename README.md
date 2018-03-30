@@ -1,4 +1,4 @@
-#Pymaceuticals
+# Pymaceuticals
 Here I analyzed the effect of different drugs on cancer treatment by using hypothetical data based on a mouse model (from the raw_data folder). <br -/>
 I used PANDAS to analyze the tumor volume, the tumor stage, and the survival rates of mouse with each drug treatment. Data visualization was made via using Matplotlib. I performed various statistical tests including, t.test, Mann-Whitney U test, Fisher's Exact test to examine if the effect of each drug in tumor prevention is significant compared to the placebo treated group.  
 
