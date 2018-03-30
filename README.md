@@ -90,7 +90,7 @@ plt.show()
 ```
 
 
-![png](output_3_0.png)
+![alt text](https://raw.githubusercontent.com/yizhiyin86/Pymaceuticals/master/output/output_2_0.png)
 
 
 Plot the number of metastatic (cancer spreading) sites changes over time
@@ -144,7 +144,7 @@ plt.show()
 ```
 
 
-![alt text](https://raw.githubusercontent.com/yizhiyin86/Pymaceuticals/master/output/output_2_0.png)
+![alt text](https://raw.githubusercontent.com/yizhiyin86/Pymaceuticals/master/output/output_3_0.png)
 
 
 Plot survival rates of mice with different drug treatment overtime
@@ -193,7 +193,7 @@ plt.show()
 ```
 
 
-![png](output_7_0.png)
+![alt text](https://raw.githubusercontent.com/yizhiyin86/Pymaceuticals/master/output/output_4_0.png)
 
 
 Plot the percentage of tumor volume change in the full 45 days
@@ -281,8 +281,7 @@ plt.show()
 ```
 
 
-![png](output_9_0.png)
-
+![alt text](https://raw.githubusercontent.com/yizhiyin86/Pymaceuticals/master/output/output_5_0.png)
 
 
 ```python
